@@ -1,5 +1,5 @@
 # OOP-Library-Management-System-Project
-Library Management System using Java OOP ------->  Internship Task 3
+Library Management System using Java OOP ------->   
 
 A simple console-based Library Management System developed using **Java** and **Object-Oriented Programming (OOP)** concepts.
 
